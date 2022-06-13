@@ -1,0 +1,80 @@
+.auth{
+    padding: 10px;
+    margin-top: 4rem;
+}   
+
+.auth .card{
+    box-shadow: -10px 14px 20px 0 #ce93d8;
+    margin-bottom: 4rem;
+    border-radius: 2px;
+    padding: 22px;
+    border-radius: 25px
+}
+
+.auth h3{
+    text-align: center;
+    font-weight: 600;
+    color: #9c27b0;
+}
+
+body {
+    background-color: #f3e5f5;
+}
+
+p {
+    font-family: "Times New Roman";
+}
+
+.login{
+    background-color: #bdbdbd;
+    margin: 40px;
+    padding: 40px;
+    width: 300px;
+    height: 300px;
+    border: 2px solid #000;
+    text-align: center;
+    color: #424242;
+    border-radius: 20px;
+}
+
+.subm{
+    background-color: #26a69a;
+    color: #ffffff;
+    width: 120px;
+    height: 35px;
+}
+.subm:hover{
+    background-color: #00695c;
+    color: #ffffff;
+    width: 120px;
+    height: 35px;
+}
+.inpt{
+    width: 200px;
+    height: 35px;
+}
+.nameee{
+    color: #424242;
+}
+
+.logt1{
+
+}
+
+.logt1 li{
+    list-style: none;
+}
+.logt1 li a{
+    padding: 20px;
+    padding: 20px;
+    background-color: #ef5350;
+    text-decoration: none;
+    color: #ffffff;
+}
+.logt1 li a:hover{
+    padding: 20px;
+    padding: 20px;
+    background-color: #c62828;
+    text-decoration: none;
+    color: #ffffff;
+}
